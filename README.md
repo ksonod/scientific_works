@@ -10,7 +10,7 @@ scientific works
 
 
 # Optics, spectroscopy, and image analysis
-## BBO_Crystal
+## [BBO_Crystal](https://github.com/ksonod/scientific_works/tree/master/BBO_Crystal)
 1. <strong>Description</strong>: The phase-matching angle for the sum-frequency generation (SFG) or second harmonic generation (SHG) is calculated for a beta-barium borate (BBO) crystal (type I). The dependence of the refractive indices on the wavelength is also obtained. These calculations are needed when designing optical setups.  
 2. <strong>Programming language</strong>: Matlab
 3. <strong>Technical keywords</strong>: interactive command line
