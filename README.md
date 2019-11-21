@@ -2,6 +2,12 @@
 scientific works
 
 # Numerical simulation tools
+## N2_alignment
+1. <strong>Description</strong>: Coherent rotational dynamics of N2 molecules is numerically calculated.
+2. <strong>Programming language</strong>: C/C++
+3. <strong>Technical keywords</strong>: 4-th order Runge-Kutta method for solving simultaneous differential equations, creating text files
+4. <strong>Scientific keywords</strong>: molecular alignment, coherent rotational dynamics, rotational-state distribution, Schrödinger equation
+
 ## [RKR_potential_CO_Xstate](https://github.com/ksonod/scientific_works/tree/master/RKR_potential_CO_Xstate)
 1. <strong>Description</strong>: The potential energy curve of CO in the X state is calculated using Rydberg-Klein-Rees method. In order to avoid singular points in integrals, Watson's method is used. The integrals are numerically calculated using Simpson's method. The calculated potential energy curve can be used for various applications, e.g., evaluation of optical transition probability based on Franck-Condon factors.  
 2. <strong>Programming language</strong>: C
