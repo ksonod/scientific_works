@@ -16,7 +16,7 @@ scientific works
 3. <strong>Technical keywords</strong>: interactive command line
 4. <strong>Scientific keywords</strong>: BBO crystal, phase-matching angle, refractive indices, Sellmeier's equation
 
-## analyze_spectroscpic_data
+## [analyze_spectroscpic_data](https://github.com/ksonod/scientific_works/tree/master/analyze_spectroscopic_data)
 1. <strong>Description</strong>: The soft-X ray energy in absorption spectra of sulfur hexafluoride (SF<sub>6</sub>) is calibrated using regression analysis. The observed peaks are fitted with Voigt function whose Lorentzian component is taken from literature and fixed. With this fitting method, the energy resolution of a spectrometer is evaluated using the determined Gaussian component of the Voigt function.
 2. <strong>Programing Language</strong>: Python (Jupyter Notebook)
 3. <strong>Technical keywords</strong>: regression analysis, fitting data with Voigt function, data visualization based on Matplotlib and Plotly
