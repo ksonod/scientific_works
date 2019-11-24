@@ -2,10 +2,18 @@
 The codes published here are written for conducting scientific numerical simulations and data analysis. Numerical simulations based on various models help us to interpret experimental results, allow us to predict interesting phenomena that have never been experimentally observed, and give us hints for optimizing experimental conditions. Data analysis tools improve the efficiency of work, allow us to extract high-quality information, transform messy raw data into exciting insights, and produce sophisticated graphs for conveying our findings to other people in an effective way.
 
 # Numerical simulation tools
+## [RKR_potential_CO_Xstate](https://github.com/ksonod/scientific_works/tree/master/RKR_potential_CO_Xstate)
+<img src="https://i.imgur.com/uYPP5vJ.png" width="500px">    
+
+1. <strong>Description</strong>: The potential energy curve of CO in the X state is calculated using Rydberg-Klein-Rees method. In order to avoid singular points in integrals, Watson's method is used. The integrals are numerically calculated using Simpson's method. The calculated potential energy curve can be used for various applications, e.g., evaluation of optical transition probability based on Franck-Condon factors.  
+2. <strong>Programming language</strong>: C
+3. <strong>Technical keywords</strong>: numerical integration, avoiding singular points in integral, creating text files
+4. <strong>Scientific keywords</strong>: RKR potential, Watson's method
+
 ## [H_ADK](https://github.com/ksonod/scientific_works/tree/master/H_ADK)
 <img src="https://i.imgur.com/Kxu3jsE.png" width="500px">   
 
-1. <strong>Description</strong>: Tunneling ionization rate of H atom is calculated using Ammosov-Delone-Krainov theory. The ionization probability is also obtained by integrating a rate equation.
+1. <strong>Description</strong>: Tunneling ionization rate of H atom is calculated using Ammosov-Delone-Krainov theory. The ionization probability is also obtained by integrating a rate equation. By visualizing the ionization rate and probability as a function of time, it is possible to reveal how fast the tunneling ionization occurs in the unperturbative laser field.
 2. <strong>Programming language</strong>: C/C++
 3. <strong>Technical keywords</strong>: Numerical integration, creating text files
 4. <strong>Scientific keywords</strong>: Tunneling ionization, intense laser field, Ammosov-Delone-Krainov theory, rate equation
@@ -15,14 +23,6 @@ The codes published here are written for conducting scientific numerical simulat
 2. <strong>Programming language</strong>: C/C++
 3. <strong>Technical keywords</strong>: 4-th order Runge-Kutta method for solving simultaneous differential equations, creating text files
 4. <strong>Scientific keywords</strong>: molecular alignment, rotational Raman excitation, coherent rotational dynamics, rotational-state distribution, Time dependent Schrödinger equation
-
-## [RKR_potential_CO_Xstate](https://github.com/ksonod/scientific_works/tree/master/RKR_potential_CO_Xstate)
-<img src="https://i.imgur.com/uYPP5vJ.png" width="500px">    
-
-1. <strong>Description</strong>: The potential energy curve of CO in the X state is calculated using Rydberg-Klein-Rees method. In order to avoid singular points in integrals, Watson's method is used. The integrals are numerically calculated using Simpson's method. The calculated potential energy curve can be used for various applications, e.g., evaluation of optical transition probability based on Franck-Condon factors.  
-2. <strong>Programming language</strong>: C
-3. <strong>Technical keywords</strong>: numerical integration, avoiding singular points in integral, creating text files
-4. <strong>Scientific keywords</strong>: RKR potential, Watson's method
   
 # Optics, spectroscopy, and image analysis
 ## [analyze_spectroscpic_data](https://github.com/ksonod/scientific_works/tree/master/analyze_spectroscopic_data)
