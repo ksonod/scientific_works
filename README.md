@@ -23,6 +23,8 @@ scientific works
 3. <strong>Technical keywords</strong>: regression analysis, fitting data with Voigt function, data visualization based on Matplotlib and Plotly
 4. <strong>Scientific keywords</strong>: soft-X ray absorption spectroscopy, energy calibration, peak analysis, spectral resolution
 
+<img src="https://imgur.com/w3niDIb" width="10">
+
 ## [SHG_autocorrelation](https://github.com/ksonod/scientific_works/tree/master/SHG_autocorrelation)
 1. <strong>Description</strong>: The autocorrelation trace of ultrashort pulses are simulated. By comparing the simulated results with a measured autocorrelation signal, the pulse width of femtosecond pulses can be determined. 
 2. <strong>Programing Language</strong>: C/C++
