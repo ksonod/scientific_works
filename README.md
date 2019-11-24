@@ -5,10 +5,10 @@ The codes published here are written for conducting scientific numerical simulat
 ## [H_ADK](https://github.com/ksonod/scientific_works/tree/master/H_ADK)
 <img src="https://i.imgur.com/Kxu3jsE.png" width="500px">   
 
-1. <strong>Description</strong>: Tunneling ionization probability of H atom is calculated using Ammosov-Delone-Krainov theory. 
+1. <strong>Description</strong>: Tunneling ionization rate of H atom is calculated using Ammosov-Delone-Krainov theory. Using the calculated ionization rate, the ionization probability is also obtained by integrating a rate equation.
 2. <strong>Programming language</strong>: C/C++
 3. <strong>Technical keywords</strong>: Numerical integration, creating text files
-4. <strong>Scientific keywords</strong>: Tunneling ionization, intense laser field, Ammosov-Delone-Krainov theory
+4. <strong>Scientific keywords</strong>: Tunneling ionization, intense laser field, Ammosov-Delone-Krainov theory, rate equation
 
 ## N2_alignment
 1. <strong>Description</strong>: Coherent rotational dynamics of N2 molecules induced by non-resonant intense femtosecond laser pulses is numerically calculated. Time dependent Schrödinger equation is numerically solved using 4-th order Runge-Kutta method. 
