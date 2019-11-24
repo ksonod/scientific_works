@@ -5,7 +5,7 @@ The codes published here are written for conducting scientific numerical simulat
 ## [H_ADK](https://github.com/ksonod/scientific_works/tree/master/H_ADK)
 <img src="https://i.imgur.com/Kxu3jsE.png" width="500px">   
 
-1. <strong>Description</strong>: Tunneling ionization rate of H atom is calculated using Ammosov-Delone-Krainov theory. Using the calculated ionization rate, the ionization probability is also obtained by integrating a rate equation.
+1. <strong>Description</strong>: Tunneling ionization rate of H atom is calculated using Ammosov-Delone-Krainov theory. The ionization probability is also obtained by integrating a rate equation.
 2. <strong>Programming language</strong>: C/C++
 3. <strong>Technical keywords</strong>: Numerical integration, creating text files
 4. <strong>Scientific keywords</strong>: Tunneling ionization, intense laser field, Ammosov-Delone-Krainov theory, rate equation
@@ -28,7 +28,7 @@ The codes published here are written for conducting scientific numerical simulat
 ## [analyze_spectroscpic_data](https://github.com/ksonod/scientific_works/tree/master/analyze_spectroscopic_data)
 <img src="https://i.imgur.com/w3niDIb.png" width="500px">    
 
-1. <strong>Description</strong>: The soft-X ray energy in absorption spectra of sulfur hexafluoride (SF<sub>6</sub>) is calibrated using regression analysis. The observed peaks are fitted with Voigt function whose Lorentzian component is taken from literature and fixed. With this fitting method, the energy resolution of a spectrometer is evaluated using the determined Gaussian component of the Voigt function.
+1. <strong>Description</strong>: The soft X-ray energy in an absorption spectrum of sulfur hexafluoride (SF<sub>6</sub>) is calibrated using regression analysis. The observed peaks are fitted with Voigt function whose full-width at half maximum (FWHM) of the Lorentzian component is taken from literature and fixed. With this fitting method, the energy resolution of a spectrometer is evaluated using the determined Gaussian component of the Voigt function. Even though the soft X-ray absorption spectrum is used for the present data analysis, this analytical method can be applied to various spectroscopic data in different photon energy.
 2. <strong>Programing Language</strong>: Python (Jupyter Notebook)
 3. <strong>Technical keywords</strong>: regression analysis, fitting data with Voigt function, data visualization based on Matplotlib and Plotly
 4. <strong>Scientific keywords</strong>: soft-X ray absorption spectroscopy, energy calibration, peak analysis, spectral resolution
