@@ -9,6 +9,7 @@ scientific works
 4. <strong>Scientific keywords</strong>: molecular alignment, impulsive Raman process, coherent rotational dynamics, rotational-state distribution, Time dependent Schrödinger equation
 
 ## [RKR_potential_CO_Xstate](https://github.com/ksonod/scientific_works/tree/master/RKR_potential_CO_Xstate)
+<a href="https://imgur.com/uYPP5vJ"><img src="https://i.imgur.com/uYPP5vJ.png" title="source: imgur.com" /></a>  
 1. <strong>Description</strong>: The potential energy curve of CO in the X state is calculated using Rydberg-Klein-Rees method. In order to avoid singular points in integrals, Watson's method is used. The integrals are numerically calculated using Simpson's method. The calculated potential energy curve can be used for various applications, e.g., evaluation of optical transition probability based on Franck-Condon factors.  
 2. <strong>Programming language</strong>: C
 3. <strong>Technical keywords</strong>: numerical integration, avoiding singular points in integral, creating text files
