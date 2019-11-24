@@ -1,5 +1,5 @@
 # scientific_works
-The codes published here are writting for conducting scientific numerical simulations and data analysis. Numerical simulations based on various models help us to interpret experimental results, allow us to predict interesting phenomena that have never been experimentally observed, and give us hints for optimizing experimental conditions. Data analysis tools improve the efficiency of work, allow us to extract high-quality information, transform messy raw data into exciting insights, and produce sophisticated graphs for conveying our findings to other people in an effective way.
+The codes published here are written for conducting scientific numerical simulations and data analysis. Numerical simulations based on various models help us to interpret experimental results, allow us to predict interesting phenomena that have never been experimentally observed, and give us hints for optimizing experimental conditions. Data analysis tools improve the efficiency of work, allow us to extract high-quality information, transform messy raw data into exciting insights, and produce sophisticated graphs for conveying our findings to other people in an effective way.
 
 # Numerical simulation tools
 ## N2_alignment
