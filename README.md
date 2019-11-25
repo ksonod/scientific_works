@@ -41,6 +41,8 @@ The codes published here are written for conducting scientific numerical simulat
 4. <strong>Scientific keywords</strong>: ultrashort pulse measurement, SHG autocorrelation
 
 ## [BBO_Crystal](https://github.com/ksonod/scientific_works/tree/master/BBO_Crystal)
+<img src="https://i.imgur.com/z3uWpco.jpg" width="500px">
+
 1. <strong>Description</strong>: The phase-matching angle for the sum-frequency generation (SFG) or second harmonic generation (SHG) is calculated for a beta-barium borate (BBO) crystal (type I). The dependence of the refractive indices on the wavelength is also obtained. These calculations are needed when designing optical setups.  
 2. <strong>Programming language</strong>: Matlab
 3. <strong>Technical keywords</strong>: interactive command line
