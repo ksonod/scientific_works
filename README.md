@@ -2,8 +2,13 @@
 The codes published here are written for conducting scientific numerical simulations and data analysis. Numerical simulations based on various models help us to interpret experimental results, allow us to predict interesting phenomena that have never been experimentally observed, and give us hints for optimizing experimental conditions. Data analysis tools improve the efficiency of work, allow us to extract high-quality information, transform messy raw data into exciting insights, and produce sophisticated graphs for conveying our findings to other people in an effective way.
 
 ## Table of Contents
-- Numerical simulation tools
--- [H_AKD](https://github.com/ksonod/scientific_works#h_adk)  
+<strong>Numerical simulation tools</strong>
+- [RKR_potential_CO_Xstate](https://github.com/ksonod/scientific_works#rkr_potential_co_xstate)  
+- [H_AKD](https://github.com/ksonod/scientific_works#h_adk)   
+  
+<strong>Optics, spectroscopy, and image analysis</strong>
+- [analyze_spectroscpic_data](https://github.com/ksonod/scientific_works#analyze_spectroscpic_data)
+
 
 # Numerical simulation tools
 ## [RKR_potential_CO_Xstate](https://github.com/ksonod/scientific_works/tree/master/RKR_potential_CO_Xstate)
