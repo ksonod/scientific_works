@@ -8,7 +8,9 @@ The codes published here are written for conducting scientific numerical simulat
   
 <strong>Optics, spectroscopy, and image analysis</strong>
 - [analyze_spectroscpic_data](https://github.com/ksonod/scientific_works#analyze_spectroscpic_data)
-
+- [SHG_autocorrelation](https://github.com/ksonod/scientific_works#shg_autocorrelation)
+- [BBO_Crystal](https://github.com/ksonod/scientific_works#bbo_crystal)
+- [cleaning_image](https://github.com/ksonod/scientific_works#cleaning_image)
 
 # Numerical simulation tools
 ## [RKR_potential_CO_Xstate](https://github.com/ksonod/scientific_works/tree/master/RKR_potential_CO_Xstate)
