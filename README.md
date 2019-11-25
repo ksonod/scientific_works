@@ -46,6 +46,8 @@ The codes published here are written for conducting scientific numerical simulat
 
 
 ## [SHG_autocorrelation](https://github.com/ksonod/scientific_works/tree/master/SHG_autocorrelation)
+<img src="https://i.imgur.com/xYauuc1.png" width="500px">  
+  
 1. <strong>Description</strong>: The autocorrelation trace of ultrashort pulses are simulated. By comparing the simulated results with a measured autocorrelation signal, the pulse width of femtosecond pulses can be determined. 
 2. <strong>Programing Language</strong>: C/C++
 3. <strong>Technical keywords</strong>: autocorrelation, numerical integration
