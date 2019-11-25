@@ -45,3 +45,10 @@ The codes published here are written for conducting scientific numerical simulat
 2. <strong>Programming language</strong>: Matlab
 3. <strong>Technical keywords</strong>: interactive command line
 4. <strong>Scientific keywords</strong>: BBO crystal, phase-matching angle, refractive indices, Sellmeier's equation
+
+
+## [clean_image](https://github.com/ksonod/scientific_works/tree/master/clean_image)
+1. <strong>Description</strong>: Background signal in the image of soft X-ray detected by a microchannel plate (MCP) is removed to get a clean spectrum with high contrast. 
+2. <strong>Programming language</strong>: Python (Jupyter Notebook)
+3. <strong>Technical keywords</strong>: image analysis, matplotlib.
+4. <strong>Scientific keywords</strong>: soft X-ray, spectroscopy
