@@ -48,6 +48,8 @@ The codes published here are written for conducting scientific numerical simulat
 
 
 ## [cleaning_image](https://github.com/ksonod/scientific_works/tree/master/cleaning_image)
+<img src="https://i.imgur.com/76l49IW.png" width="500px">     
+
 1. <strong>Description</strong>: Background signal in the image of soft X-ray detected by a microchannel plate (MCP) is removed to get a clean spectrum with high contrast. 
 2. <strong>Programming language</strong>: Python (Jupyter Notebook)
 3. <strong>Technical keywords</strong>: image analysis, matplotlib.
