@@ -4,7 +4,7 @@ The codes published here are written for conducting scientific numerical simulat
 ## Table of Contents
 <strong>Numerical simulation tools</strong>
 - [RKR_potential_CO_Xstate](https://github.com/ksonod/scientific_works#rkr_potential_co_xstate)  
-- [H_AKD](https://github.com/ksonod/scientific_works#h_adk)   
+- [H_ADK](https://github.com/ksonod/scientific_works#h_adk)   
   
 <strong>Optics, spectroscopy, and image analysis</strong>
 - [analyze_spectroscpic_data](https://github.com/ksonod/scientific_works#analyze_spectroscpic_data)
