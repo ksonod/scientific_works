@@ -8,6 +8,7 @@ The codes published here are written for conducting scientific numerical simulat
   
 <strong>Optics, spectroscopy, and image analysis</strong>
 - [analyze_spectroscpic_data](https://github.com/ksonod/scientific_works#analyze_spectroscpic_data)
+- [derivative_spectra](https://github.com/ksonod/scientific_works#derivative_spectra)
 - [SHG_autocorrelation](https://github.com/ksonod/scientific_works#shg_autocorrelation)
 - [BBO_Crystal](https://github.com/ksonod/scientific_works#bbo_crystal)
 - [cleaning_image](https://github.com/ksonod/scientific_works#cleaning_image)
