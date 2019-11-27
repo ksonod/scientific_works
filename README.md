@@ -51,7 +51,7 @@ The codes published here are written for conducting scientific numerical simulat
 1. <strong>Description</strong>: The first-, second-, third-, and fourth-order derivatives of spectra are obtained using Savitzky-Golay filter. If the high-order derivatives of spectra are calculated, noise is strongly enhanced. This problem is avoided by smoothing data before getting derivatives. It is also shown that the derivative spectroscopy can give us information about the peak positions and discreminate peaks that are buried in a broad band or scattering.  
 2. <strong>Programing Language</strong>: Python (Jupyter Notebook)  
 3. <strong>Technical keywords</strong>: Savitzky-Golay filter, derivatives, smoothing, scipy
-4. <strong>Scientific keywords</strong>: UV-vis spectra, NIR spectra, derivative spectra, peak analysis
+4. <strong>Scientific keywords</strong>: derivative spectra, peak analysis, spectral discrimination, spectral resolution enhancement
 
 
 ## [SHG_autocorrelation](https://github.com/ksonod/scientific_works/tree/master/SHG_autocorrelation)
