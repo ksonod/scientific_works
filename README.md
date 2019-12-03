@@ -9,7 +9,7 @@ The codes published here are written for conducting scientific numerical simulat
 - [BBO_Crystal](https://github.com/ksonod/scientific_works#bbo_crystal)
   
 <strong>Data analysis tools</strong>
-- [calibration_and_spectroscopic_resolution](https://github.com/ksonod/scientific_workscalibration_and_spectroscopic_resolution)
+- [calibration_and_spectroscopic_resolution](https://github.com/ksonod/scientific_works#calibration_and_spectroscopic_resolution)
 - [derivative_spectra](https://github.com/ksonod/scientific_works#derivative_spectra)
 - [cleaning_image](https://github.com/ksonod/scientific_works#cleaning_image)
 
