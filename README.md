@@ -2,15 +2,15 @@
 The codes published here are written for conducting scientific numerical simulations and data analysis. Numerical simulations based on various models help us to interpret experimental results, allow us to predict interesting phenomena that have never been experimentally observed, and give us hints for optimizing experimental conditions. Data analysis tools improve the efficiency of work, allow us to extract high-quality information, transform messy raw data into exciting insights, and produce sophisticated graphs for conveying our findings to other people in an effective way.
 
 ## Table of Contents
-<strong>Numerical simulation tools</strong>
+<strong>Tools for numerical simulation and scientific calculation</strong>
 - [RKR_potential_CO_Xstate](https://github.com/ksonod/scientific_works#rkr_potential_co_xstate)  
 - [H_ADK](https://github.com/ksonod/scientific_works#h_adk)   
-  
-<strong>Optics, spectroscopy, and image analysis</strong>
-- [analyze_spectroscpic_data](https://github.com/ksonod/scientific_works#analyze_spectroscpic_data)
-- [derivative_spectra](https://github.com/ksonod/scientific_works#derivative_spectra)
 - [SHG_autocorrelation](https://github.com/ksonod/scientific_works#shg_autocorrelation)
 - [BBO_Crystal](https://github.com/ksonod/scientific_works#bbo_crystal)
+  
+<strong>Data analysis tools</strong>
+- [analyze_spectroscpic_data](https://github.com/ksonod/scientific_works#analyze_spectroscpic_data)
+- [derivative_spectra](https://github.com/ksonod/scientific_works#derivative_spectra)
 - [cleaning_image](https://github.com/ksonod/scientific_works#cleaning_image)
 
 # Numerical simulation tools
@@ -35,7 +35,16 @@ The codes published here are written for conducting scientific numerical simulat
 2. <strong>Programming language</strong>: C/C++
 3. <strong>Technical keywords</strong>: 4-th order Runge-Kutta method for solving simultaneous differential equations, creating text files
 4. <strong>Scientific keywords</strong>: molecular alignment, rotational Raman excitation, coherent rotational dynamics, rotational-state distribution, Time dependent Schrödinger equation
+
+## [SHG_autocorrelation](https://github.com/ksonod/scientific_works/tree/master/SHG_autocorrelation)
+<img src="https://i.imgur.com/xYauuc1.png" width="500px">  
   
+1. <strong>Description</strong>: The autocorrelation trace of ultrashort pulses are simulated. By comparing the simulated results with a measured autocorrelation signal, the pulse width of femtosecond pulses can be determined. 
+2. <strong>Programing Language</strong>: C/C++
+3. <strong>Technical keywords</strong>: autocorrelation, numerical integration
+4. <strong>Scientific keywords</strong>: ultrashort pulse measurement, SHG autocorrelation
+
+
 # Optics, spectroscopy, and image analysis
 ## [analyze_spectroscpic_data](https://github.com/ksonod/scientific_works/tree/master/analyze_spectroscopic_data)
 <img src="https://i.imgur.com/w3niDIb.png" width="500px">    
@@ -53,14 +62,6 @@ The codes published here are written for conducting scientific numerical simulat
 3. <strong>Technical keywords</strong>: Savitzky-Golay filter, derivatives, smoothing, scipy
 4. <strong>Scientific keywords</strong>: derivative spectra, peak analysis, spectral discrimination, spectral resolution enhancement
 
-
-## [SHG_autocorrelation](https://github.com/ksonod/scientific_works/tree/master/SHG_autocorrelation)
-<img src="https://i.imgur.com/xYauuc1.png" width="500px">  
-  
-1. <strong>Description</strong>: The autocorrelation trace of ultrashort pulses are simulated. By comparing the simulated results with a measured autocorrelation signal, the pulse width of femtosecond pulses can be determined. 
-2. <strong>Programing Language</strong>: C/C++
-3. <strong>Technical keywords</strong>: autocorrelation, numerical integration
-4. <strong>Scientific keywords</strong>: ultrashort pulse measurement, SHG autocorrelation
 
 ## [BBO_Crystal](https://github.com/ksonod/scientific_works/tree/master/BBO_Crystal)
 <img src="https://i.imgur.com/z3uWpco.jpg" width="500px">
