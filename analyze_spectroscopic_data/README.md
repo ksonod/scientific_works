@@ -1,4 +1,4 @@
-# spectral_resolution
+# calibration_and_spectroscopic_resolution
 ## Objectives
 In the enclosed notebook, a soft X-ray absorption spectrum of sulfur hexafluoride (SF<sub>6</sub>) is analyzed. The main objectives are:
 - To calibrate the photon energy of soft X-ray.
