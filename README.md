@@ -9,7 +9,7 @@ The codes published here are written for conducting scientific numerical simulat
 - [BBO_Crystal](https://github.com/ksonod/scientific_works#bbo_crystal)
   
 <strong>Data analysis tools</strong>
-- [analyze_spectroscpic_data](https://github.com/ksonod/scientific_works#analyze_spectroscpic_data)
+- [calibration_and_spectroscopic_resolution](https://github.com/ksonod/scientific_works#analyze_spectroscpic_data)
 - [derivative_spectra](https://github.com/ksonod/scientific_works#derivative_spectra)
 - [cleaning_image](https://github.com/ksonod/scientific_works#cleaning_image)
 
@@ -54,7 +54,7 @@ The codes published here are written for conducting scientific numerical simulat
 
 
 # Data analysis
-## [analyze_spectroscpic_data](https://github.com/ksonod/scientific_works/tree/master/analyze_spectroscopic_data)
+## [calibration_and_spectroscopic_resolution](https://github.com/ksonod/scientific_works/tree/master/analyze_spectroscopic_data)
 <img src="https://i.imgur.com/w3niDIb.png" width="500px">    
 
 1. <strong>Description</strong>: The soft X-ray energy in an absorption spectrum of sulfur hexafluoride (SF<sub>6</sub>) is calibrated using regression analysis. The observed peaks are fitted with Voigt function whose full-width at half maximum (FWHM) of the Lorentzian component is taken from literature and fixed. With this fitting method, the energy resolution of a spectrometer is evaluated using the determined Gaussian component of the Voigt function. Even though the soft X-ray absorption spectrum is used for the present data analysis, this analytical method can be applied to various spectroscopic data in different photon energy.
