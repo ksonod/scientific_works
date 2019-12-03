@@ -44,8 +44,16 @@ The codes published here are written for conducting scientific numerical simulat
 3. <strong>Technical keywords</strong>: autocorrelation, numerical integration
 4. <strong>Scientific keywords</strong>: ultrashort pulse measurement, SHG autocorrelation
 
+## [BBO_Crystal](https://github.com/ksonod/scientific_works/tree/master/BBO_Crystal)
+<img src="https://i.imgur.com/z3uWpco.jpg" width="500px">
 
-# Optics, spectroscopy, and image analysis
+1. <strong>Description</strong>: The phase-matching angle for the sum-frequency generation (SFG) or second harmonic generation (SHG) is calculated for a beta-barium borate (BBO) crystal (type I). The dependence of the refractive indices on the wavelength is also obtained. These calculations are needed when designing optical setups.  
+2. <strong>Programming language</strong>: Matlab
+3. <strong>Technical keywords</strong>: interactive command line
+4. <strong>Scientific keywords</strong>: BBO crystal, phase-matching angle, refractive indices, Sellmeier's equation
+
+
+# Data analysis
 ## [analyze_spectroscpic_data](https://github.com/ksonod/scientific_works/tree/master/analyze_spectroscopic_data)
 <img src="https://i.imgur.com/w3niDIb.png" width="500px">    
 
@@ -61,16 +69,6 @@ The codes published here are written for conducting scientific numerical simulat
 2. <strong>Programing Language</strong>: Python (Jupyter Notebook)  
 3. <strong>Technical keywords</strong>: Savitzky-Golay filter, derivatives, smoothing, scipy
 4. <strong>Scientific keywords</strong>: derivative spectra, peak analysis, spectral discrimination, spectral resolution enhancement
-
-
-## [BBO_Crystal](https://github.com/ksonod/scientific_works/tree/master/BBO_Crystal)
-<img src="https://i.imgur.com/z3uWpco.jpg" width="500px">
-
-1. <strong>Description</strong>: The phase-matching angle for the sum-frequency generation (SFG) or second harmonic generation (SHG) is calculated for a beta-barium borate (BBO) crystal (type I). The dependence of the refractive indices on the wavelength is also obtained. These calculations are needed when designing optical setups.  
-2. <strong>Programming language</strong>: Matlab
-3. <strong>Technical keywords</strong>: interactive command line
-4. <strong>Scientific keywords</strong>: BBO crystal, phase-matching angle, refractive indices, Sellmeier's equation
-
 
 ## [cleaning_image](https://github.com/ksonod/scientific_works/tree/master/cleaning_image)
 <img src="https://i.imgur.com/76l49IW.png" width="500px">     
