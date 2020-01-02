@@ -1,4 +1,4 @@
-# About convnet_for_pg-frog
+# About this repository
 In this repository, the temporal profile of femtosecond laser pulses, i.e., pulse width and temporal chirp parameter, is retrieved by analyzing traces of polarization-gated [frequency-resolved optical gating](https://en.wikipedia.org/wiki/Frequency-resolved_optical_gating) (PG-FROG) using a convolutional neural network. The model can quickly characterize laser pulses once training process is finished.  
   
 Main files in this repository are:
