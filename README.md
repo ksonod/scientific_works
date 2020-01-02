@@ -5,6 +5,7 @@ Other types of analysis that are not listed here are also published on my GitHub
 
 ## Table of Contents
 <strong>Tools for numerical simulation and scientific calculation</strong>
+- [convnet_for_pg-frog](https://github.com/ksonod/scientific_works#convnet_for_pg-frog)
 - [RKR_potential_CO_Xstate](https://github.com/ksonod/scientific_works#rkr_potential_co_xstate)  
 - [H_ADK](https://github.com/ksonod/scientific_works#h_adk)   
 - [SHG_autocorrelation](https://github.com/ksonod/scientific_works#shg_autocorrelation)
@@ -16,6 +17,13 @@ Other types of analysis that are not listed here are also published on my GitHub
 - [cleaning_image](https://github.com/ksonod/scientific_works#cleaning_image)
 
 # Numerical simulation tools
+## [convnet_for_pg-frog](https://github.com/ksonod/scientific_works/tree/master/convnet_for_pg-frog)
+1. <strong>Description</strong>: The temporal profile of femtosecond laser pulses, i.e., pulse width and temporal chirp parameters, is retrieved by analyzing traces of polarization-gated frequency-resolved optical gating (PG-FROG) using a convolutional neural network. The model can quickly characterize laser pulses once training process is finished.   
+2. <strong>Programming language</strong>: Python (Python 3, Jupyter Notebook, Google Colab)
+3. <strong>Technical keywords</strong>: numerical integration, image processing, Fourier transform, convolutional neural network, cross validation, standardization, GPU
+4. <strong>Scientific keywords</strong>: PG-FROG, ultrashort laser pulse, convolutional neural network  
+
+
 ## [RKR_potential_CO_Xstate](https://github.com/ksonod/scientific_works/tree/master/RKR_potential_CO_Xstate)
 <img src="https://i.imgur.com/uYPP5vJ.png" width="500px">    
 
