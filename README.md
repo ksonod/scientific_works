@@ -37,7 +37,7 @@ Other types of analysis that are not listed here are also published on my GitHub
 ## [H_ADK](https://github.com/ksonod/scientific_works/tree/master/H_ADK)
 <img src="https://i.imgur.com/Kxu3jsE.png" width="500px">   
 
-1. <strong>Description</strong>: Tunneling ionization rate of H atom is calculated using Ammosov-Delone-Krainov theory. The ionization probability is also obtained by integrating a rate equation. By visualizing the ionization rate and probability as a function of time, it is possible to reveal how fast the tunneling ionization occurs in the unperturbative laser field.
+1. <strong>Description</strong>: [Tunneling ionization](https://en.wikipedia.org/wiki/Tunnel_ionization) rate of H atom is calculated using Ammosov-Delone-Krainov theory. The ionization probability is also obtained by integrating a rate equation. By visualizing the ionization rate and probability as a function of time, it is possible to reveal how fast the tunneling ionization occurs in the unperturbative laser field.
 2. <strong>Programming language</strong>: C/C++
 3. <strong>Technical keywords</strong>: Numerical integration, creating text files
 4. <strong>Scientific keywords</strong>: Tunneling ionization, intense laser field, Ammosov-Delone-Krainov theory, rate equation
@@ -51,18 +51,18 @@ Other types of analysis that are not listed here are also published on my GitHub
 ## [SHG_autocorrelation](https://github.com/ksonod/scientific_works/tree/master/SHG_autocorrelation)
 <img src="https://i.imgur.com/xYauuc1.png" width="500px">  
   
-1. <strong>Description</strong>: The autocorrelation trace of ultrashort pulses are simulated. By comparing the simulated results with a measured autocorrelation signal, the pulse width of femtosecond pulses can be determined. 
+1. <strong>Description</strong>: The [autocorrelation](https://en.wikipedia.org/wiki/Optical_autocorrelation) trace of ultrashort pulses are simulated. By comparing the simulated results with a measured autocorrelation signal, the pulse width of femtosecond pulses can be determined. 
 2. <strong>Programing Language</strong>: C/C++
-3. <strong>Technical keywords</strong>: autocorrelation, numerical integration
-4. <strong>Scientific keywords</strong>: ultrashort pulse measurement, SHG autocorrelation
+3. <strong>Technical keywords</strong>: [autocorrelation](https://en.wikipedia.org/wiki/Optical_autocorrelation), numerical integration
+4. <strong>Scientific keywords</strong>: ultrashort pulse measurement, SHG [autocorrelation](https://en.wikipedia.org/wiki/Optical_autocorrelation)
 
 ## [BBO_Crystal](https://github.com/ksonod/scientific_works/tree/master/BBO_Crystal)
 <img src="https://i.imgur.com/z3uWpco.jpg" width="500px">
 
-1. <strong>Description</strong>: The phase-matching angle for the sum-frequency generation (SFG) or second harmonic generation (SHG) is calculated for a beta-barium borate (BBO) crystal (type I). The dependence of the refractive indices on the wavelength is also obtained. These calculations are needed when designing optical setups.  
+1. <strong>Description</strong>: The phase-matching angle for the sum-frequency generation (SFG) or second harmonic generation (SHG) is calculated for a beta-barium borate ([BBO](https://en.wikipedia.org/wiki/Barium_borate)) crystal (type I). The dependence of the [refractive indices](https://en.wikipedia.org/wiki/Refractive_index) on the wavelength is also obtained. These calculations are needed when designing optical setups.  
 2. <strong>Programming language</strong>: Matlab
 3. <strong>Technical keywords</strong>: interactive command line
-4. <strong>Scientific keywords</strong>: BBO crystal, phase-matching angle, refractive indices, Sellmeier's equation
+4. <strong>Scientific keywords</strong>: [BBO](https://en.wikipedia.org/wiki/Barium_borate) crystal, phase-matching angle, [refractive indices](https://en.wikipedia.org/wiki/Refractive_index), [Sellmeier's equation](https://en.wikipedia.org/wiki/Sellmeier_equation)
 
 
 # Data analysis
