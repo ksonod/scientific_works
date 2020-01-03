@@ -13,35 +13,13 @@ If you want to prepare your own training images, you should start with FROG.ipyn
 Below is a graphical summary of this repository:   
 <img src="https://i.imgur.com/nvTHmaU.png" width="700px">      
 
-# About FROG
-### Theoretical background
-#### Introduction
-Basic theoretical background can be found in the following materials
+# Theoretical background of FROG
+Basic theoretical background can be found in the following materials:
 - Electric field and temporal phases: reference [1], page 21-23
 - Theoretical background, actual FROG traces, and experimental conditions: reference [1] page 118-122  
-
-#### Temporal and spectral profile
-In the present study, a laser pulse with a Gaussian profile and quadratic temporal phase is considered:
-$$
-    E(t) = E_0exp(-at^2)exp(ibt^2).
-$$
-Here, E<sub>0</sub> is the amplitude (constant), a is the parameter that determines the pulse width, and b is the chirp parameter. In this case, the temporal phase is simply
-$$
-    \phi(t) = -bt^2.
-$$
-The Fourier transform of this field is 
-$$
-    \tilde{E}(\omega)=\frac{\sqrt{\pi}}{a-ib}exp\biggl(-\frac{\omega^2}{4(a-ib)}\biggr)
-$$
-
-#### FROG
-In order to get a FROG trace, an autocorrelation signal based on nonlinear optical effect is resolved in terms of frequency. The PG-FROG trace is 
-$$
-    I_{PG-FROG}(\omega , \tau)=\biggl|\int_{-\infty}^{\infty}E(t)|E(t-\tau)|^2exp(-i\omega t)dt\biggr|^2,
-$$
-where &omega; is the angular frequency, t is the time, E(t) is the complex pulse field versus time, and &tau; is the delay between the two replicas of the pulse. The integral part is basically the Fourier transformation of E(t)|E(t-&tau;)|<sup>2</sup>.
+In addition, brief explanation is presented in the notebook [FROG.ipynb](https://github.com/ksonod/scientific_works/blob/master/convnet_for_pg-frog/FROG.ipynb)
 
 
-#### Reference
+## Reference
 [1] Rick Trebino, "[Frequency-resolved optical gating: The measurement of ultrashort laser pulses](https://link.springer.com/book/10.1007/978-1-4615-1181-6)," Springer Science+Business Media New York (2000)  
 [2] Rick Trebino, Kenneth W. DeLong, David N. Fittinghoff, John N. Sweetser, Marco A. Krumbügel, and Bruce A. Richman, "Measuring ultrashort laser pulses in the time-frequency domain using frequency-resolved optical gating," Rev. Sci. Instrum. 68, 3277 (1997)
