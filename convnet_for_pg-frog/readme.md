@@ -11,7 +11,7 @@ If you want to prepare your own training images, you should start with FROG.ipyn
 
 # How they work
 Below is a graphical summary of this repository:  
-
+https://i.imgur.com/nvTHmaU.png
 
 # About FROG
 ### Theoretical background
