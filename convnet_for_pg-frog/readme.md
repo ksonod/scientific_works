@@ -18,7 +18,8 @@ Below is a graphical summary of this repository:
 ## Theory
 Basic theoretical background can be found in the following materials:
 - Electric field and temporal phases: reference [1], page 21-23
-- Theoretical background, actual FROG traces, and experimental conditions: reference [1] page 118-122  
+- Theoretical background, actual FROG traces, and experimental conditions: reference [1] page 118-122   
+  
 In addition, brief explanation is presented in the notebook [FROG.ipynb](https://github.com/ksonod/scientific_works/blob/master/convnet_for_pg-frog/FROG.ipynb) 
    
 ## Reference
