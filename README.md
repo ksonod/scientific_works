@@ -16,7 +16,7 @@ Other types of analysis that are not listed here are also published on my GitHub
 - [derivative_spectra](https://github.com/ksonod/scientific_works#derivative_spectra)
 - [cleaning_image](https://github.com/ksonod/scientific_works#cleaning_image)
 
-# Numerical simulation tools
+# Numerical simulation and scientific calculation
 ## [convnet_for_pg-frog](https://github.com/ksonod/scientific_works/tree/master/convnet_for_pg-frog)
 <img src="https://i.imgur.com/f7z6arM.png" width="700px">     
  
