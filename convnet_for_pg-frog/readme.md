@@ -17,7 +17,9 @@ Below is a graphical summary of this repository:
 - The two files, [FROG.ipynb](https://github.com/ksonod/scientific_works/blob/master/convnet_for_pg-frog/FROG.ipynb) and [frog_func.py](https://github.com/ksonod/scientific_works/blob/master/convnet_for_pg-frog/frog_func.py), generate PG-FROG traces. The PG-FROG trace is expressed by   
 <img src="https://i.imgur.com/gVCHdrZ.png" width="400px">,      
 where &omega; is the angular frequency, t is the time, E(t) is the complex pulse field versus time, and &tau; is the delay between the two replicas of the laser pulse. As can be seen from the equation above, the PG-FROG trace is a signal measured as a function of the delay &tau; and the angular frequency &omega;. 
-- In order to generate the PG-FROG traces (training images) by the numerical simulation, you should specify the temporal width of the laser pulse and chirp parameter. The temporal width of the laser pulse is determined by the duration when the laser pulse has significant intensity. The chirp parameter specifies the temporal dependence of the frequency of the light.For example, the oscillating field of light in the graphical summary shows slow oscillation at first and then oscillates faster.  
+- In order to generate the PG-FROG traces (training images) by the numerical simulation, you should specify the temporal width of the laser pulse and chirp parameter. The temporal width of the laser pulse is determined by the duration when the laser pulse has significant intensity. Precisely speaking, the pulse width is the full-width at half maximum (FWHM) of the intensity. The chirp parameter determines the temporal dependence of the frequency of the light.For example, the oscillating field of light in the graphical summary shows slow oscillation at first and then oscillates faster. These two parameters are target values of the training dataset.  
+- The generated data is fed to a convolutional neural network followed by densely-connected layers in [CNN.ipynb](https://github.com/ksonod/scientific_works/blob/master/convnet_for_pg-frog/CNN.ipynb). In this notebook, you can train this deep learning model using a technique of cross validation. During the cross validation, the target labels are standardized. After completing tuning the model, you can train the model using the whole data with early-stopping callbacks. 
+- Finally, test data are generated with random target values and fed to the trained model.
 
   
 # Theoretical background of FROG
@@ -42,8 +44,10 @@ where &omega; is the angular frequency, t is the time, E(t) is the complex pulse
     
 <img src="https://i.imgur.com/5dDpsIx.png" width="400px">  
 (The chirp parameter b has a non-zero value. As a result, the trace is distorted. In other words, the wavelength/frequency changes as the time goes by.)
-
    
 ## Reference
 [1] Rick Trebino, "[Frequency-resolved optical gating: The measurement of ultrashort laser pulses](https://link.springer.com/book/10.1007/978-1-4615-1181-6)," Springer Science+Business Media New York (2000)  
 [2] Rick Trebino, Kenneth W. DeLong, David N. Fittinghoff, John N. Sweetser, Marco A. Krumbügel, and Bruce A. Richman, "Measuring ultrashort laser pulses in the time-frequency domain using frequency-resolved optical gating," Rev. Sci. Instrum. 68, 3277 (1997)
+
+# Technical note
+- Regularization is important in this neural network model.
