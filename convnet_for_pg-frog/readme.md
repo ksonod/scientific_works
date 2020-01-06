@@ -27,11 +27,15 @@ Basic theoretical background can be found in the following materials:
 - Electric field and temporal phases: reference [1], page 21-23
 - Theoretical background, actual FROG traces, and experimental conditions: reference [1] page 118-122   
 - My notebook [FROG.ipynb](https://github.com/ksonod/scientific_works/blob/master/convnet_for_pg-frog/FROG.ipynb) 
-   
+ 
 In the present study, a laser pulse with a Gaussian profile and quadratic temporal phase is considered:
-<img src="https://i.imgur.com/RoRvQMj.png" width="300px">        
+<img src="https://i.imgur.com/RoRvQMj.png" width="250px">        
 Here, E<sub>0</sub> is the amplitude, a is the parameter that determines the temporal width of a laser pulse, and b is the chirp parameter. In this case, the temporal phase is simply given by   
-<img src="https://i.imgur.com/ron2a0x.png" width="150px">.   
+<img src="https://i.imgur.com/ron2a0x.png" width="100px">.   
+   
+In order to get a FROG trace, an autocorrelation signal based on nonlinear optical effect is resolved in terms of frequency. The PG-FROG trace is expressed as    
+<img src="https://i.imgur.com/SIQb7o2.png" width="150px">.   
+
 
     
 ## Reference
