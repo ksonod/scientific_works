@@ -37,11 +37,13 @@ Here, E<sub>0</sub> is the amplitude, a is the parameter that determines the tem
    
 In order to get a FROG trace, an autocorrelation signal based on nonlinear optical effect is resolved in terms of frequency. The PG-FROG trace is expressed as    
 <img src="https://i.imgur.com/gVCHdrZ.png" width="400px">,      
-where &omega; is the angular frequency, t is the time, E(t) is the complex pulse field versus time, and &tau; is the delay between the two replicas of the pulse. The integral part is basically the Fourier transform of E(t)|E(t-&tau;)|<sup>2</sup>. It should be noted that the PG-FROG sinal is the function of the delay &tau; and the angular frequency &omega;. Below is a sample trace, in which wavelength is used for y axis value instead of the angular frequency.   
+where &omega; is the angular frequency, t is the time, E(t) is the complex pulse field versus time, and &tau; is the delay between the two replicas of the pulse. The integral part is basically the Fourier transform of E(t)|E(t-&tau;)|<sup>2</sup>. It should be noted that the PG-FROG sinal is the function of the delay &tau; and the angular frequency &omega;. Below are sample traces, in which wavelength is adopted as a unit for y axis instead of the angular frequency.   
   
 <img src="https://i.imgur.com/5dDpsIx.png" width="400px">
 
-    
+<img src="https://i.imgur.com/S15uHzS.png" width="400px">
+
+   
 ## Reference
 [1] Rick Trebino, "[Frequency-resolved optical gating: The measurement of ultrashort laser pulses](https://link.springer.com/book/10.1007/978-1-4615-1181-6)," Springer Science+Business Media New York (2000)  
 [2] Rick Trebino, Kenneth W. DeLong, David N. Fittinghoff, John N. Sweetser, Marco A. Krumbügel, and Bruce A. Richman, "Measuring ultrashort laser pulses in the time-frequency domain using frequency-resolved optical gating," Rev. Sci. Instrum. 68, 3277 (1997)
