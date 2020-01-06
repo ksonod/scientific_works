@@ -47,7 +47,7 @@ where &omega; is the angular frequency, t is the time, E(t) is the complex pulse
    
 ## Reference
 [1] Rick Trebino, "[Frequency-resolved optical gating: The measurement of ultrashort laser pulses](https://link.springer.com/book/10.1007/978-1-4615-1181-6)," Springer Science+Business Media New York (2000)  
-[2] Rick Trebino, Kenneth W. DeLong, David N. Fittinghoff, John N. Sweetser, Marco A. Krumbügel, and Bruce A. Richman, "Measuring ultrashort laser pulses in the time-frequency domain using frequency-resolved optical gating," Rev. Sci. Instrum. 68, 3277 (1997)
+[2] Rick Trebino, Kenneth W. DeLong, David N. Fittinghoff, John N. Sweetser, Marco A. Krumbügel, and Bruce A. Richman, "[Measuring ultrashort laser pulses in the time-frequency domain using frequency-resolved optical gating](https://doi.org/10.1063/1.1148286)," Rev. Sci. Instrum. 68, 3277 (1997)
 
 # Brief note on the neural network model
 - Regularization is important to avoid overfitting. In the present case, Dropout layer is added. 
