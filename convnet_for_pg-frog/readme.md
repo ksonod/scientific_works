@@ -14,9 +14,10 @@ Below is a graphical summary of this repository:
   
 <img src="https://i.imgur.com/nvTHmaU.png" width="700px">      
 
-1. The two files, [FROG.ipynb](https://github.com/ksonod/scientific_works/blob/master/convnet_for_pg-frog/FROG.ipynb) and [frog_func.py](https://github.com/ksonod/scientific_works/blob/master/convnet_for_pg-frog/frog_func.py), generate PG-FROG traces. The PG-FROG trace is expressed by   
+- The two files, [FROG.ipynb](https://github.com/ksonod/scientific_works/blob/master/convnet_for_pg-frog/FROG.ipynb) and [frog_func.py](https://github.com/ksonod/scientific_works/blob/master/convnet_for_pg-frog/frog_func.py), generate PG-FROG traces. The PG-FROG trace is expressed by   
 <img src="https://i.imgur.com/gVCHdrZ.png" width="400px">,      
-where &omega; is the angular frequency, t is the time, E(t) is the complex pulse field versus time, and &tau; is the delay between the two replicas of the pulse. As can be seen from the equation above, the PG-FROG sinal is the function of the delay &tau; and the angular frequency &omega;.
+where &omega; is the angular frequency, t is the time, E(t) is the complex pulse field versus time, and &tau; is the delay between the two replicas of the pulse. As can be seen from the equation above, the PG-FROG trace is a signal measured as a function of the delay &tau; and the angular frequency &omega;. 
+- a
 
   
 # Theoretical background of FROG
