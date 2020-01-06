@@ -14,7 +14,9 @@ If you want to prepare your own training images, you should start with FROG.ipyn
 Below is a graphical summary of this repository:    
   
 <img src="https://i.imgur.com/nvTHmaU.png" width="700px">      
-  
+
+The two files, [FROG.ipynb](https://github.com/ksonod/scientific_works/blob/master/convnet_for_pg-frog/FROG.ipynb) and [frog_func.py](https://github.com/ksonod/scientific_works/blob/master/convnet_for_pg-frog/frog_func.py), generate PG-FROG traces. 
+
 ## Procedure
 ### Training dataset
 Training images are FROG traces. 
@@ -35,7 +37,9 @@ Here, E<sub>0</sub> is the amplitude, a is the parameter that determines the tem
    
 In order to get a FROG trace, an autocorrelation signal based on nonlinear optical effect is resolved in terms of frequency. The PG-FROG trace is expressed as    
 <img src="https://i.imgur.com/gVCHdrZ.png" width="400px">,      
-where &omega; is the angular frequency, t is the time, E(t) is the complex pulse field versus time, and &tau; is the delay between the two replicas of the pulse. The integral part is basically the Fourier transform of E(t)|E(t-&tau;)|<sup>2</sup>.
+where &omega; is the angular frequency, t is the time, E(t) is the complex pulse field versus time, and &tau; is the delay between the two replicas of the pulse. The integral part is basically the Fourier transform of E(t)|E(t-&tau;)|<sup>2</sup>. It should be noted that the PG-FROG sinal is the function of the delay &tau; and the angular frequency &omega;. Below is a sample trace, in which wavelength is used for y axis value instead of the angular frequency.   
+  
+<img src="https://i.imgur.com/5dDpsIx.png" width="400px">
 
     
 ## Reference
