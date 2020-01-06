@@ -34,8 +34,8 @@ Here, E<sub>0</sub> is the amplitude, a is the parameter that determines the tem
 <img src="https://i.imgur.com/ron2a0x.png" width="100px">.   
    
 In order to get a FROG trace, an autocorrelation signal based on nonlinear optical effect is resolved in terms of frequency. The PG-FROG trace is expressed as    
-<img src="https://i.imgur.com/gVCHdrZ.png" width="300px">.   
-
+<img src="https://i.imgur.com/gVCHdrZ.png" width="400px">,      
+where &omega; is the angular frequency, t is the time, E(t) is the complex pulse field versus time, and &tau; is the delay between the two replicas of the pulse. The integral part is basically the Fourier transform of E(t)|E(t-&tau;)|<sup>2</sup>.
 
     
 ## Reference
