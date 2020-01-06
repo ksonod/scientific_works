@@ -29,7 +29,7 @@ Basic theoretical background can be found in the following materials:
 - My notebook [FROG.ipynb](https://github.com/ksonod/scientific_works/blob/master/convnet_for_pg-frog/FROG.ipynb) 
    
 In the present study, a laser pulse with a Gaussian profile and quadratic temporal phase is considered:
-<img src="https://i.imgur.com/RoRvQMj.png" width="700px">      
+<img src="https://i.imgur.com/RoRvQMj.png" width="300px">      
 
     
 ## Reference
