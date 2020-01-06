@@ -29,7 +29,11 @@ Basic theoretical background can be found in the following materials:
 - My notebook [FROG.ipynb](https://github.com/ksonod/scientific_works/blob/master/convnet_for_pg-frog/FROG.ipynb) 
    
 In the present study, a laser pulse with a Gaussian profile and quadratic temporal phase is considered:
-<img src="https://i.imgur.com/RoRvQMj.png" width="300px">      
+<img src="https://i.imgur.com/RoRvQMj.png" width="300px">        
+Here, E<sub>0</sub> is the amplitude, a is the parameter that determines the temporal width of a laser pulse, and b is the chirp parameter. In this case, the temporal phase is simply given by
+$$
+  \phi (t)=-bt^2.
+$$
 
     
 ## Reference
