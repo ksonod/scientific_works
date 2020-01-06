@@ -36,8 +36,8 @@ where &omega; is the angular frequency, t is the time, E(t) is the complex pulse
   
 <img src="https://i.imgur.com/S15uHzS.png" width="400px">  
 (The chirp parameter b = 0. In this case, the trace has a round shape.)    
-----------------
-        
+    
+    
 <img src="https://i.imgur.com/5dDpsIx.png" width="400px">  
 (The chirp parameter b has a non-zero value. As a result, the trace is distorted. In other words, the wavelength/frequency changes as the time goes by.)
 
