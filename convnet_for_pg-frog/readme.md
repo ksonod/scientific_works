@@ -58,4 +58,6 @@ where &omega; is the angular frequency, t is the time, E(t) is the complex pulse
 - In the callbacks, I added ReduceLROnPlateau, but maybe this is not necessary because it does not make significant improvement.
 
 # Future improvement
-- It is possible to include higher-order chirp parameters. 
+- Including higher-order chirp parameters. 
+- Checking the robustness against random noise.
+- Shortening the simulation time for generating PG-FROG traces.
