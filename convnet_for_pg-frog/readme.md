@@ -26,9 +26,12 @@ Training images are FROG traces.
 Basic theoretical background can be found in the following materials:
 - Electric field and temporal phases: reference [1], page 21-23
 - Theoretical background, actual FROG traces, and experimental conditions: reference [1] page 118-122   
-  
-In addition, brief explanation is presented in the notebook [FROG.ipynb](https://github.com/ksonod/scientific_works/blob/master/convnet_for_pg-frog/FROG.ipynb) 
+- My notebook [FROG.ipynb](https://github.com/ksonod/scientific_works/blob/master/convnet_for_pg-frog/FROG.ipynb) 
    
+In the present study, a laser pulse with a Gaussian profile and quadratic temporal phase is considered:
+<img src="https://i.imgur.com/RoRvQMj.png" width="700px">      
+
+    
 ## Reference
 [1] Rick Trebino, "[Frequency-resolved optical gating: The measurement of ultrashort laser pulses](https://link.springer.com/book/10.1007/978-1-4615-1181-6)," Springer Science+Business Media New York (2000)  
 [2] Rick Trebino, Kenneth W. DeLong, David N. Fittinghoff, John N. Sweetser, Marco A. Krumbügel, and Bruce A. Richman, "Measuring ultrashort laser pulses in the time-frequency domain using frequency-resolved optical gating," Rev. Sci. Instrum. 68, 3277 (1997)
