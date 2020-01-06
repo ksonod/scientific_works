@@ -34,7 +34,7 @@ Here, E<sub>0</sub> is the amplitude, a is the parameter that determines the tem
 <img src="https://i.imgur.com/ron2a0x.png" width="100px">.   
    
 In order to get a FROG trace, an autocorrelation signal based on nonlinear optical effect is resolved in terms of frequency. The PG-FROG trace is expressed as    
-<img src="https://i.imgur.com/SIQb7o2.png" width="150px">.   
+<img src="https://i.imgur.com/gVCHdrZ.png" width="300px">.   
 
 
     
