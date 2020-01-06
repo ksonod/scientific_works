@@ -17,7 +17,7 @@ Below is a graphical summary of this repository:
 - The two files, [FROG.ipynb](https://github.com/ksonod/scientific_works/blob/master/convnet_for_pg-frog/FROG.ipynb) and [frog_func.py](https://github.com/ksonod/scientific_works/blob/master/convnet_for_pg-frog/frog_func.py), generate PG-FROG traces. The PG-FROG trace is expressed by   
 <img src="https://i.imgur.com/gVCHdrZ.png" width="400px">,      
 where &omega; is the angular frequency, t is the time, E(t) is the complex pulse field versus time, and &tau; is the delay between the two replicas of the laser pulse. As can be seen from the equation above, the PG-FROG trace is a signal measured as a function of the delay &tau; and the angular frequency &omega;. 
-- In order to generate the PG-FROG traces (training images) by the numerical simulation, you should specify the temporal width of the laser pulse and chirp parameter. The temporal width of the laser pulse is determined by the duration when the laser pulse has significant intensity. The chirp parameter specifies the temporal dependence of the frequency of the light. The oscillating field of light in the graphical summary shows slow oscillation at first and then oscillates faster.  
+- In order to generate the PG-FROG traces (training images) by the numerical simulation, you should specify the temporal width of the laser pulse and chirp parameter. The temporal width of the laser pulse is determined by the duration when the laser pulse has significant intensity. The chirp parameter specifies the temporal dependence of the frequency of the light.For example, the oscillating field of light in the graphical summary shows slow oscillation at first and then oscillates faster.  
 
   
 # Theoretical background of FROG
