@@ -14,7 +14,6 @@ Other types of analysis that are not listed here are also published on my GitHub
 <strong>Data analysis tools</strong>
 - [calibration_and_spectroscopic_resolution](https://github.com/ksonod/scientific_works#calibration_and_spectroscopic_resolution)
 - [derivative_spectra](https://github.com/ksonod/scientific_works#derivative_spectra)
-- [cleaning_image](https://github.com/ksonod/scientific_works#cleaning_image)
 
 # Numerical simulation and scientific calculation
 ## [convnet_for_pg-frog](https://github.com/ksonod/scientific_works/tree/master/convnet_for_pg-frog)
