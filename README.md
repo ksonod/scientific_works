@@ -81,11 +81,3 @@ Other types of analysis that are not listed here are also published on my GitHub
 2. <strong>Programing Language</strong>: Python (Jupyter Notebook)  
 3. <strong>Technical keywords</strong>: Savitzky-Golay filter, derivatives, smoothing, scipy
 4. <strong>Scientific keywords</strong>: derivative spectra, peak analysis, spectral discrimination, spectral resolution enhancement
-
-## [cleaning_image](https://github.com/ksonod/scientific_works/tree/master/cleaning_image)
-<img src="https://i.imgur.com/76l49IW.png" width="500px">     
-
-1. <strong>Description</strong>: Background signal in the image of soft X-ray detected by a microchannel plate (MCP) is removed to get a clean spectrum with high contrast. 
-2. <strong>Programming language</strong>: Python (Jupyter Notebook)
-3. <strong>Technical keywords</strong>: image analysis, matplotlib.
-4. <strong>Scientific keywords</strong>: soft X-ray, spectroscopy
